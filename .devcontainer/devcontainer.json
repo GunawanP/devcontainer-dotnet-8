@@ -37,9 +37,11 @@
 	"customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {
-			"settings": {},
+			"settings": {
+  				"workbench.colorTheme": "Dark High Contrast"
+			},
 			"extensions": [
-				"ms-dotnettools.csharp"
+				"ms-dotnettools.csdevkit"
 			]
 		}
 	},
